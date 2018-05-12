@@ -35,7 +35,7 @@ total_steps<-with(activity, tapply(steps, date, sum, na.rm = TRUE))
 ```{r, echo=TRUE}
 hist1<-hist(total_steps, main="Total Number of Steps Per Day", xlab = "Steps", col = "purple")
 ```
-![plot of Hist1](./Peer Graded Assignment 1/Images/Hist1.png) 
+![Hist1](Images/Hist1.png) 
 
 #### Mean and median number of steps taken each day
 ```{r, echo=TRUE}
