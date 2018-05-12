@@ -118,7 +118,7 @@ g1 + geom_line() +
         xlab("5-minute Interval") + 
         ylab("Number of Steps")
 ```
-![Panel_Weekday & Weekend Activity](Images/Panel_Weekday & Weekend Activity.png)
+![Panel_Weekend_Activity](Images/Panel_Weekend_Activity.png)
 
 ### Conclusion
 
