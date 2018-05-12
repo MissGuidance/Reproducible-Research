@@ -53,7 +53,7 @@ plot(avg_steps_interval,axes = F, type="l", col="purple", xlab="Time", ylab="Ave
 axis(1, at=c(0, 36, 72, 108, 144, 180, 216, 252, 288), label = c("0:00", "3:00","6:00", "9:00", "12:00","15:00","18:00","21:00","24:00"))
 axis(2)
 ```
-![Time_Series_Avg Daily Pattern](Images/Time_Series_Avg Daily Pattern.png)
+![Time_Series_Avg_Daily_Pattern](Images/Time_Series_Avg_Daily_Pattern.png)
 
 #### 5-minute interval containing the maximum number of steps
 ```{r, echo=TRUE}
